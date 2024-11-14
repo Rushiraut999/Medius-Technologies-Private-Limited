@@ -1,0 +1,49 @@
+
+
+.main-data{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    
+}
+.main-data h2{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3rem;
+}
+.main-data h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 8rem;
+    position: relative;
+    z-index: 1;
+    margin-right: 100px;
+}
+.btn-img-g{
+    display: flex;
+}
+.btn-img-g img{
+    width: 600px;
+    position: relative;
+    top: -80px;
+    left: 50px;
+}
+.left-side{
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+    margin-top:170px;
+
+}
+.left-side button{
+    background-color: #1ee07f;
+    height: 60px;
+    width: 190px;
+    border-radius: 50px;
+}
+.googale{
+    display: flex;
+    flex-direction: column;
+    margin-top: 195px;
+    margin-left: 30px;
+}
